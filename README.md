@@ -1,7 +1,7 @@
-## Permanent Posting System Based on Arweave Network
+## Blockchain Storage System on Arweave Network
 ![Blockchain storage dashboard](./Screenshot.png)
 
-This is a posting system where content can be posted to Arweave network and stored permanently.
+This is a blockchain storage system where content can be posted to Arweave Network and stored permanently.
 
 A work for 2022 HackKing's - annual hackathon of King's College London.
 
