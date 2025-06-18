@@ -1,40 +1,40 @@
 ## Blockchain Storage System on Arweave Network
 ![Blockchain storage dashboard](./Screenshot.png)
 
-This is a blockchain storage system where content can be posted to Arweave Network and stored permanently.
+This is a blockchain storage system that allows users to post content to the Arweave Network for permanent storage.
 
-A work for 2022 HackKing's - annual hackathon of King's College London.
+This project was developed for the 2022 HackKing's annual hackathon at King's College London.
 
-Built on 19 Nov 2022 at Bush House, London.
+Built on: November 19, 2022, at Bush House, London.
 
 ### Notice:
 
-- Your content will be posted to Arweave blockchain network; this tool will not store your content, instead, it posts your content to the blockchain for permanent storage.
+- Your content will be posted to the Arweave blockchain network; this tool does not store your content locally. Instead, it posts your content to the blockchain for permanent storage.
 
-- The key of an Arweave wallet (all content of the wallet's ```.json``` file) with ```AR token``` balance is needed to pay blockchain transaction fee for each posting action.
+- You will need the key from an Arweave wallet (including all content from the wallet's `.json` file) with an `AR token` balance to pay the blockchain transaction fee for each posting action.
 
 ## Build
 
-- Make sure that you have npm installed in your computer
+- Ensure that you have npm installed on your computer.
 
 ## Use
 
-- Download the ZIP file on this webpage and unzip the file into a folder
+1. Download the ZIP file from this webpage and unzip it into a folder.
 
-- Go to the folder in Terminal
+2. Open Terminal and navigate to the folder:
   
   ```
   cd path/of/the/folder
   ```
 
-- In your terminal, enter the code below line by line:
+3. In your terminal, enter the following commands line by line:
   
   ```
   npm install
   npm run dev
   ```
 
-- Open in the browser the localhost url shown on the terminal
+4. Open the localhost URL displayed in the terminal in your web browser.
 
 ## Created In Collaboration With
 
