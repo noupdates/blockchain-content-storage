@@ -5,7 +5,7 @@ This is a blockchain storage system that allows users to post content to the Arw
 
 This project was developed for the 2022 HackKing's annual hackathon at King's College London.
 
-Built on: November 19, 2022, at Bush House, London.
+Built on: November 19, 2022, at Bush House (S), London.
 
 ### Notice:
 
